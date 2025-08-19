@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "migrations_dir": "drizzle",
-      "database_name": "moemail",
+      "database_name": "dinomail",
       "database_id": "${DATABASE_ID}"
     }
   ]
