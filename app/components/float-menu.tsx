@@ -19,7 +19,7 @@ export function FloatMenu() {
               variant="outline"
               size="icon"
               className="bg-white dark:bg-background rounded-full shadow-lg group relative border-primary/20"
-              onClick={() => window.open("https://github.com/beilunyang/dinomail", "_blank")}
+              onClick={() => window.open("https://github.com/dinosaurerer/dino-mail", "_blank")}
             >
               <Github 
                 className="w-4 h-4 transition-all duration-300 text-primary group-hover:scale-110"
@@ -29,7 +29,7 @@ export function FloatMenu() {
           </TooltipTrigger>
           <TooltipContent>
             <div className="text-sm">
-              <p>获取网站源代码</p>
+              <p>作者Github主页</p>
             </div>
           </TooltipContent>
         </Tooltip>
