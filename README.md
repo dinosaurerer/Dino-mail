@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="public/icons/icon-192x192.png" alt="MoeMail Logo" width="100" height="100">
-  <h1 align="center">MoeMail</h1>
+  <img src="public/icons/icon-192x192.png" alt="DinoMail Logo" width="100" height="100">
+  <h1 align="center">DinoMail</h1>
 </p>
 
 <p align="center">
