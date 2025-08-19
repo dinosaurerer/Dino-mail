@@ -27,9 +27,9 @@ export const metadata: Metadata = {
     "邮件服务",
     "DinoMail"
   ].join(", "),
-  authors: [{ name: "SoftMoe Studio" }],
-  creator: "SoftMoe Studio",
-  publisher: "SoftMoe Studio",
+  authors: [{ name: "SoftDino Studio" }],
+  creator: "SoftDino Studio",
+  publisher: "SoftDino Studio",
   robots: {
     index: true,
     follow: true,

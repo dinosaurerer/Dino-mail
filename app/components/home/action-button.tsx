@@ -16,7 +16,7 @@ export function ActionButton({ isLoggedIn }: ActionButtonProps) {
     return (
       <Button 
         size="lg" 
-        onClick={() => router.push("/moe")}
+        onClick={() => router.push("/home")}
         className="gap-2 bg-primary hover:bg-primary/90 text-white px-8"
       >
         <Mail className="w-5 h-5" />

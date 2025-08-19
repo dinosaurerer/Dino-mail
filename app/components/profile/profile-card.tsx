@@ -104,7 +104,7 @@ export function ProfileCard({ user }: ProfileCardProps) {
 
       <div className="flex flex-col sm:flex-row gap-4 px-1">
         <Button 
-          onClick={() => router.push("/moe")}
+          onClick={() => router.push("/home")}
           className="gap-2 flex-1"
         >
           <Mail className="w-4 h-4" />
