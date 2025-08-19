@@ -8,7 +8,7 @@ import { PERMISSIONS } from "@/lib/permissions"
 
 export const runtime = "edge"
 
-export default async function MoePage() {
+export default async function HomePage() {
   const session = await auth()
   
   if (!session?.user) {
